@@ -1,0 +1,35 @@
+{
+  "name": "matplotlib",
+  "version": "3.10.7",
+  "build": "py314haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "matplotlib-3.10.7-py314haa95532_0.conda",
+  "md5": "fbf862dc359cba814106963c9c5a0abb",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.10.7-py314haa95532_0.conda",
+  "sha256": "c5067e33d34541d0a8b389e2b3a9aeb3f176b44dd6ef39656ec864a5f49499bc",
+  "depends": [
+    "matplotlib-base >=3.10.7,<3.10.8.0a0",
+    "pyqt >=5",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314",
+    "tornado >=5"
+  ],
+  "constrains": [],
+  "license": "LicenseRef-PSF-based",
+  "timestamp": 1765202468000,
+  "size": 6809,
+  "requested_spec": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\Asus\\miniconda3\\pkgs\\matplotlib-3.10.7-py314haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\Asus\\miniconda3\\pkgs\\matplotlib-3.10.7-py314haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Asus\\miniconda3\\pkgs\\matplotlib-3.10.7-py314haa95532_0",
+    "type": 1
+  }
+}
